@@ -1,0 +1,186 @@
+{
+  "uuid": "7cf5148c8db728ffd9d51132d953df21",
+  "path": "Offline/Wemos P1 DSMR5 hat",
+  "name": "Wemos P1 DSMR5 hat",
+  "content": "",
+  "created_at": "2021-01-02 00:51:11",
+  "updated_at": "2021-01-03 20:12:41",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "321574dc99b7dbf23a53e5e0792cf9ca",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "909e17b9ddd74fc7ae61f2e0a35c10c6": 1,
+        "b5ab05e2845c43b4acca1a52a0021736": 1,
+        "0056de60105443baa9ab0a9f6c420012": 1,
+        "f59692c377e743b892e085a8b518b713": 2,
+        "e6d7a830655c938c879429a6666ec53a": 1,
+        "cfc5dabdd2d043c39453fdb66a451077": 1,
+        "334c6f605fa441b0a8963052e8820688": 2,
+        "dcad9d6dad3847df9fbedff5607eca88": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BC547BTA",
+          1,
+          "TO-92-3_L4.8-W3.7-P2.54-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C258144",
+            "BOM_Manufacturer": "ON Semicon",
+            "BOM_Manufacturer Part": "BC547BTA",
+            "puuid": "619489e674074de888fe8dd8f6b9799e",
+            "uuid": "0056de60105443baa9ab0a9f6c420012"
+          }
+        ],
+        [
+          "X6511FV-08-C85D32",
+          2,
+          "HDR-TH_8P-P2.54-V-F",
+          "H2,H3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C718237",
+            "BOM_Manufacturer": "XKB Connectivity",
+            "BOM_Manufacturer Part": "X6511FV-08-C85D32",
+            "puuid": "b716fa3700784db29b7ad404bc6e6844",
+            "uuid": "334c6f605fa441b0a8963052e8820688"
+          }
+        ],
+        [
+          "95501-2661",
+          1,
+          "RJ12-TH_95501-2661",
+          "CN1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C240856",
+            "BOM_Manufacturer": "MOLEX",
+            "BOM_Manufacturer Part": "95501-2661",
+            "puuid": "4b008f8c59714919abbfadfdf68f7efc",
+            "uuid": "909e17b9ddd74fc7ae61f2e0a35c10c6"
+          }
+        ],
+        [
+          "204-10SUGC/S400-A5-L",
+          1,
+          "LED-TH_BD3.0-P2.54-FD",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "EVERLIGHT",
+            "BOM_Manufacturer Part": "204-10SUGC/S400-A5-L",
+            "BOM_Supplier Part": "C99763",
+            "puuid": "461333d4c3214d80a3f333e8a832219c",
+            "uuid": "b5ab05e2845c43b4acca1a52a0021736"
+          }
+        ],
+        [
+          "X6511WV-02H-C30D60",
+          1,
+          "HDR-TH_2P-P2.54-V-M",
+          "H1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C706874",
+            "BOM_Manufacturer": "XKB Connectivity",
+            "BOM_Manufacturer Part": "X6511WV-02H-C30D60",
+            "puuid": "e6b180e1316a4d0690f78b72797504c2",
+            "uuid": "cfc5dabdd2d043c39453fdb66a451077"
+          }
+        ],
+        [
+          "560",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433706",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RD 1/4W 560R J T/B A1",
+            "puuid": "2915f1f0a54941d7b912decfe617b47f",
+            "uuid": "dcad9d6dad3847df9fbedff5607eca88"
+          }
+        ],
+        [
+          "2.2K",
+          1,
+          "RES-TH_BD2.2-L6.5-P10.50-D0.6",
+          "R3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CFR0W4J0222A50",
+            "BOM_Manufacturer": "UniOhm",
+            "BOM_Supplier Part": "C61295",
+            "puuid": "666264fd42b84465ad050a9517cab8cf",
+            "uuid": "e6d7a830655c938c879429a6666ec53a"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "RES-TH_BD2.2-L6.5-P10.50-D0.9",
+          "R1,R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C66649",
+            "BOM_Manufacturer": "Uniroyal Elec",
+            "BOM_Manufacturer Part": "CFR0W4J0102A50",
+            "puuid": "effc89414532445783190cb2bb98fda9",
+            "uuid": "f59692c377e743b892e085a8b518b713"
+          }
+        ]
+      ],
+      "updateTime": 1609698218,
+      "createTime": 1609545071,
+      "histories": [],
+      "created_at": "2021-01-02 00:51:11",
+      "updated_at": "2021-01-03 19:23:38"
+    },
+    {
+      "uuid": "3ba39835321954a3dceb2988c7f0a4b4",
+      "puuid": "7cf5148c8db728ffd9d51132d953df21",
+      "title": "PCB_2021-01-03_00-21-59",
+      "filename": "PCB_2021-01-03_00-21-59.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "619489e674074de888fe8dd8f6b9799e": 1,
+        "b716fa3700784db29b7ad404bc6e6844": 2,
+        "4b008f8c59714919abbfadfdf68f7efc": 1,
+        "461333d4c3214d80a3f333e8a832219c": 1,
+        "e6b180e1316a4d0690f78b72797504c2": 1,
+        "666264fd42b84465ad050a9517cab8cf": 1,
+        "effc89414532445783190cb2bb98fda9": 2,
+        "2915f1f0a54941d7b912decfe617b47f": 1
+      },
+      "BOM": [],
+      "updateTime": 1609701161,
+      "createTime": 1609629719,
+      "histories": [],
+      "created_at": "2021-01-03 00:21:59",
+      "updated_at": "2021-01-03 20:12:41"
+    }
+  ],
+  "sort": [],
+  "title": "Wemos P1 DSMR5 hat",
+  "foldername": "Wemos P1 DSMR5 hat",
+  "schfilename": "Wemos P1 DSMR5 hat.json",
+  "schfilemtime": 1609698218334
+}
