@@ -11,3 +11,6 @@ Enjoy.
 
 PSA:
 This is a work in progress.
+
+Link to Thingiverse case designed by Samstorm10 for this PCB:
+https://www.thingiverse.com/thing:4800250
